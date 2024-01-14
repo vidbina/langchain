@@ -178,3 +178,14 @@ docs/docs/node_modules
 docs/docs/yarn.lock
 _dist
 docs/docs/templates
+
+# Devenv
+.devenv*
+devenv.local.nix
+
+# direnv
+.direnv
+
+# pre-commit
+.pre-commit-config.yaml
+
